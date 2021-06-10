@@ -1,6 +1,12 @@
-# SurveyjsNg
+# SurveyJS + Angular 12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+
+## Additional steps
+
+- Added library `npm i --save survey-angular`
+- Added library `npm i --save survey-pdf`
+- Added demo pages via the https://github.com/tsv2013/surveyjs-ng/commit/8082045af72ad4efff2d01aabc34a91339800c2b commit
 
 ## Development server
 
